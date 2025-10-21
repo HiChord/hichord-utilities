@@ -1,0 +1,12 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Checklist/Test Icon -->
+  <rect x="12" y="10" width="24" height="28" rx="2" stroke="#FF6B35" stroke-width="2" fill="none"/>
+  <!-- Checkmarks -->
+  <path d="M16 18 L19 21 L24 16" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M16 25 L19 28 L24 23" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M16 32 L19 35 L24 30" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Lines -->
+  <line x1="26" y1="18" x2="32" y2="18" stroke="#FF6B35" stroke-width="1.5" opacity="0.6"/>
+  <line x1="26" y1="25" x2="32" y2="25" stroke="#FF6B35" stroke-width="1.5" opacity="0.6"/>
+  <line x1="26" y1="32" x2="32" y2="32" stroke="#FF6B35" stroke-width="1.5" opacity="0.6"/>
+</svg>

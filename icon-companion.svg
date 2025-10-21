@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- MIDI Keyboard Icon -->
+  <rect x="8" y="18" width="32" height="16" rx="2" stroke="#FF6B35" stroke-width="2" fill="none"/>
+  <!-- Keys -->
+  <line x1="14" y1="18" x2="14" y2="34" stroke="#FF6B35" stroke-width="1.5"/>
+  <line x1="20" y1="18" x2="20" y2="34" stroke="#FF6B35" stroke-width="1.5"/>
+  <line x1="26" y1="18" x2="26" y2="34" stroke="#FF6B35" stroke-width="1.5"/>
+  <line x1="32" y1="18" x2="32" y2="34" stroke="#FF6B35" stroke-width="1.5"/>
+  <!-- Black keys -->
+  <rect x="16" y="18" width="3" height="8" fill="#FF6B35"/>
+  <rect x="22" y="18" width="3" height="8" fill="#FF6B35"/>
+  <rect x="29" y="18" width="3" height="8" fill="#FF6B35"/>
+  <!-- Signal indicator -->
+  <circle cx="12" cy="14" r="2" fill="#FF6B35" opacity="0.6"/>
+</svg>
